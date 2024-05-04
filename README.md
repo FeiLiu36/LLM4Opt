@@ -1,15 +1,15 @@
 # LLM4Opt
-## Paper Collection on Large Language Models for Optimization (LLM4Opt)
+## Collection on Large Language Models for Optimization (LLM4Opt)
 
 Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of research and review papers of LLM4Opt. The Papers are sorted by time (first publicly available). Any suggestions and pull requests are welcome.
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
-
-If you want to update the list:
+It is far from a comprehensive list. If you want to update the list:
 
 + Fork, Add, and Merge
 + Report an [issue](https://github.com/FeiLiu36/LLM4Opt/issues)
 + Contact Fei Liu (fliu36-c@my.cityu.edu.hk)
+  
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
 
 ## Overview
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
@@ -30,14 +30,30 @@ If you want to update the list:
 
 ## Competition
 
-## Research Papers
-### AI, Algorithm Design
+## Papers
+### Review
++ Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.10034)
++ A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.14734)
+
+### Position paper
++ THE ERA OF SEMANTIC DECODING, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
++ 
+
+### Algorithm Design
 + Algorithm Evolution using Large Language Model, Arxiv, Nov 2023, [code](https://github.com/FeiLiu36/eoh),[paper](https://arxiv.org/abs/2311.15249) 
 + Mathematical discoveries from program search with large language models, Nature, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
-+ Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.10034)
 + ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, Arxiv, Feb 2024, [code](https://github.com/ai4co/LLM-as-HH), [paper](https://arxiv.org/abs/2402.01145)
 + Evolve Cost-aware Acquisition Functions Using Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.16906)
 + How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Arxiv, March 2024, [code], [paper](https://arxiv.org/abs/2403.01757)
++ LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM
+
+### LLM as optimizer
++ Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
++ 
++ LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
++ 
+
+
 
 ### Machine Learning
 + L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
