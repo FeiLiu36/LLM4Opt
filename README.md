@@ -18,7 +18,7 @@ If you want to update the list:
 * [Research Papers](https://github.com/FeiLiu36/LLM4Opt#research-papers)
   * [AI, Algorithm Design]
   * [Machine Learning]
-  * [Physics]
+  * [Science]
   * [...]
  
 ## Platform
