@@ -22,7 +22,7 @@ The sharing principle of these references here is for research. If any authors d
   * [...]
  
 ## Platform
-+ EoH (Evolution of Heuristics)
++ [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH)
 
 ## Tutorial & Workshop
 + GECCO 2024 workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) https://sites.google.com/view/llmfwec-2024
