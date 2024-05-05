@@ -42,7 +42,7 @@ The sharing principle of these references here is for research. If any authors d
 + A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.14734)
 
 ### Position paper
-+ THE ERA OF SEMANTIC DECODING, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
++ The Era OF Semantic Decoding, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
 + 
 
 ### Algorithm Design
@@ -57,7 +57,7 @@ The sharing principle of these references here is for research. If any authors d
 + Evolve Cost-aware Acquisition Functions Using Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.16906)
 + Benchmarking ChatGPT on Algorithmic Reasoning, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.03441)
 + How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Arxiv, March 2024, [code], [paper](https://arxiv.org/abs/2403.01757)
-+ LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM
++ Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
 + LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
 + Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17508)
 
