@@ -50,6 +50,7 @@ The sharing principle of these references here is for research. If any authors d
 + Mathematical discoveries from program search with large language models, Nature, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
 + Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Mode, ICML, Jan. 2024, [code](https://github.com/FeiLiu36/EoH), [paper](https://arxiv.org/abs/2401.02051)
 + ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, Arxiv, Feb 2024, [code](https://github.com/ai4co/LLM-as-HH), [paper](https://arxiv.org/abs/2402.01145)
++ Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs), [code], [paper](https://arxiv.org/abs/2402.02456)
 + AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.10705)
 + On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.08115)
 + How Can LLM Guide RL? A Value-Based Approach, Arxiv, Feb 2024, [code](https://github.com/agentification/Language-Integrated-VI), [paper](https://arxiv.org/abs/2402.16181)
@@ -57,6 +58,7 @@ The sharing principle of these references here is for research. If any authors d
 + How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Arxiv, March 2024, [code], [paper](https://arxiv.org/abs/2403.01757)
 + LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM
 + LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
++ Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17508)
 
 ### LLM as optimizer
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
