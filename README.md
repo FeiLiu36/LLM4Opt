@@ -88,3 +88,5 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Related Collections
 [Foundation Models for Combinatorial Optimization](https://github.com/ai4co/awesome-fm4co)
+[MOO-ML-Papers](https://github.com/xzhang2523/awesome-moo-ml-papers)
+
