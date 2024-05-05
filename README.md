@@ -26,7 +26,10 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Tutorial & Workshop
 + GECCO 2024 workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) https://sites.google.com/view/llmfwec-2024
-+ GECCO 2024 Tutorial: Using Large Language Models for Evolutionary Search https://gecco-2024.sigevo.org/Tutorials 
++ GECCO 2024 Tutorial: Using Large Language Models for Evolutionary Search https://gecco-2024.sigevo.org/Tutorials
++ PPSN 2024 Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities https://ppsn2024.fh-ooe.at/program/
++ KDD 2024 Tutorial: NL2Code-Reasoning and Planning with LLM for Code Development https://kdd2024.kdd.org/workshops/, DEEP LEARNING AND LARGE LANGUAGE MODELS FOR KNOWLEDGE GRAPHS
+ https://genetasefa.github.io/dl4kg2024/
 
 ## Competition
 
@@ -66,7 +69,7 @@ The sharing principle of these references here is for research. If any authors d
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
 + Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.11518)
 + Evolving Interpretable Visual Classifiers with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.09941)
-+ 
+
 
 ### Science
 + A Prompt-Engineered Large Language Model, Deep Learning Workflow for Materials Classification, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.17788)
@@ -74,3 +77,5 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Model Agent as a Mechanical Designer, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17525)
 + 
 
+
+## Related Links
