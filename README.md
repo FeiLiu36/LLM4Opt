@@ -42,27 +42,35 @@ The sharing principle of these references here is for research. If any authors d
 ### Algorithm Design
 + Algorithm Evolution using Large Language Model, Arxiv, Nov 2023, [code](https://github.com/FeiLiu36/eoh),[paper](https://arxiv.org/abs/2311.15249) 
 + Mathematical discoveries from program search with large language models, Nature, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
++ Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Mode, ICML, Jan. 2024, [code](https://github.com/FeiLiu36/EoH), [paper](https://arxiv.org/abs/2401.02051)
 + ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, Arxiv, Feb 2024, [code](https://github.com/ai4co/LLM-as-HH), [paper](https://arxiv.org/abs/2402.01145)
++ AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.10705)
++ On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.08115)
++ How Can LLM Guide RL? A Value-Based Approach, Arxiv, Feb 2024, [code](https://github.com/agentification/Language-Integrated-VI), [paper](https://arxiv.org/abs/2402.16181)
 + Evolve Cost-aware Acquisition Functions Using Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.16906)
 + How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Arxiv, March 2024, [code], [paper](https://arxiv.org/abs/2403.01757)
 + LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM
++ LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
 
 ### LLM as optimizer
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
-+ 
++ Large language model for multi-objective evolutionary optimization, Arxiv, Oct. 2023, [code](https://github.com/FeiLiu36/LLM4MOEA), [paper](https://arxiv.org/abs/2310.12541)
++ Large Language Models as Evolutionary Optimizers, Arxiv, Oct. 2023, [code](), [paper](https://arxiv.org/abs/2310.19046)
++ Large Language Models As Evolution Strategies, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.18381)
 + LARGE LANGUAGE MODEL-BASED EVOLUTIONARY OPTIMIZER: REASONING WITH ELITISM, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
 + 
-
 
 
 ### Machine Learning
 + L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
++ Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.11518)
 + Evolving Interpretable Visual Classifiers with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.09941)
++ 
 
 ### Science
 + A Prompt-Engineered Large Language Model, Deep Learning Workflow for Materials Classification, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.17788)
 + LLM-SR: Scientific Equation Discovery via Programming with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/pdf/2404.18400)
-
++ Large Language Model Agent as a Mechanical Designer, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17525)
 + 
 
