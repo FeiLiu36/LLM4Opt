@@ -13,10 +13,13 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Overview
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
-* [Tutorial](https://github.com/FeiLiu36/LLM4Opt#tutorial-and-books)
+* [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
 * [Competition](https://github.com/FeiLiu36/LLM4Opt#Competition)
-* [Research Papers](https://github.com/FeiLiu36/LLM4Opt#research-papers)
+* [Research Papers](https://github.com/FeiLiu36/LLM4Opt#Papers)
+  * [Review]
+  * [Position Paper]
   * [AI, Algorithm Design]
+  * [LLM as optimizer]
   * [Machine Learning]
   * [Science]
   * [...]
@@ -24,7 +27,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Platform
 + [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH)
 
-## Tutorial & Workshop
+## Tutorial&Workshop
 + GECCO 2024 workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) https://sites.google.com/view/llmfwec-2024
 + GECCO 2024 Tutorial: Using Large Language Models for Evolutionary Search https://gecco-2024.sigevo.org/Tutorials
 + PPSN 2024 Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities https://ppsn2024.fh-ooe.at/program/
