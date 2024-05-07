@@ -25,7 +25,8 @@ The sharing principle of these references here is for research. If any authors d
   * [...]
  
 ## Platform
-+ [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH)
++ [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH) (optimization, mathematics, machine learning)
++ [OpenELM](https://github.com/CarperAI/OpenELM) (robots, image, etc)
 
 ## Tutorial&Workshop
 + GECCO 2024 workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) https://sites.google.com/view/llmfwec-2024
@@ -66,10 +67,10 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Models as Evolutionary Optimizers, Arxiv, Oct. 2023, [code](), [paper](https://arxiv.org/abs/2310.19046)
 + Large Language Models As Evolution Strategies, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.18381)
 + Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
-+ 
 
 
 ### Machine Learning
++ Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
 + Evoprompting: Language models for code-level neural architecture search, NeuIPS 2023, [code], [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)
 + L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
@@ -83,7 +84,9 @@ The sharing principle of these references here is for research. If any authors d
 + A Prompt-Engineered Large Language Model, Deep Learning Workflow for Materials Classification, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.17788)
 + LLM-SR: Scientific Equation Discovery via Programming with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/pdf/2404.18400)
 + Large Language Model Agent as a Mechanical Designer, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17525)
-+ 
+
+### Industry
++ Large Language Models for Supply Chain Optimization, Arxiv, July 2023, [code], [paper](https://arxiv.org/abs/2307.03875)
 
 
 ## Related Collections
