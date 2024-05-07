@@ -43,7 +43,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Position paper
 + The Era OF Semantic Decoding, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
-+ 
++ Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions, **ICML 2024** , May 2024, [code], [paper](https://arxiv.org/abs/2405.03547)
 
 ### Algorithm Design
 + Algorithm Evolution using Large Language Model, Arxiv, Nov 2023, [code](https://github.com/FeiLiu36/eoh),[paper](https://arxiv.org/abs/2311.15249) 
