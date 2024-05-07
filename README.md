@@ -29,6 +29,7 @@ The sharing principle of these references here is for research. If any authors d
 + [OpenELM](https://github.com/CarperAI/OpenELM) (robots, image, programming puzzles, etc)
 
 ## Tutorial&Workshop
++ NeurIPS 2023 workshop: Foundation Models for Decision Making https://nips.cc/virtual/2023/workshop/66525
 + GECCO 2024 workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) https://sites.google.com/view/llmfwec-2024
 + GECCO 2024 Tutorial: Using Large Language Models for Evolutionary Search https://gecco-2024.sigevo.org/Tutorials
 + PPSN 2024 Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities https://ppsn2024.fh-ooe.at/program/
@@ -65,6 +66,7 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
 + Large language model for multi-objective evolutionary optimization, Arxiv, Oct. 2023, [code](https://github.com/FeiLiu36/LLM4MOEA), [paper](https://arxiv.org/abs/2310.12541)
 + Large Language Models as Evolutionary Optimizers, Arxiv, Oct. 2023, [code](), [paper](https://arxiv.org/abs/2310.19046)
++ Using Large Language Models for Hyperparameter Optimization, NeurIPS 2023, [code], [paper](https://arxiv.org/abs/2312.04528)
 + Large Language Models As Evolution Strategies, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.18381)
 + Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
 
@@ -72,6 +74,7 @@ The sharing principle of these references here is for research. If any authors d
 ### Machine Learning
 + Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
 + Evoprompting: Language models for code-level neural architecture search, NeuIPS 2023, [code], [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)
++ Eureka: Human-Level Reward Design via Coding Large Language Models, ICLR 2024, [code](https://github.com/eureka-research/Eureka), [paper](https://arxiv.org/abs/2310.12931)
 + L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
 + Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.11518)
