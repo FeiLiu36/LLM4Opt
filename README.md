@@ -74,6 +74,7 @@ The sharing principle of these references here is for research. If any authors d
 + L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
 + Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.11518)
++ LLM Guided Evolution-The Automation of Models Advancing Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.11446)
 + Identify Critical Nodes in Complex Network with Large Language Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.03962)
 + Evolving Interpretable Visual Classifiers with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.09941)
 
