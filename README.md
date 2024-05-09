@@ -49,8 +49,8 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Algorithm Design
 + Algorithm Evolution using Large Language Model, Arxiv, Nov 2023, [code](https://github.com/FeiLiu36/eoh),[paper](https://arxiv.org/abs/2311.15249) 
-+ Mathematical discoveries from program search with large language models, Nature, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
-+ Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Mode, ICML, 2024, [code](https://github.com/FeiLiu36/EoH), [paper](https://arxiv.org/abs/2401.02051)
++ Mathematical discoveries from program search with large language models, **Nature**, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
++ Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, **ICML, 2024**, [code](https://github.com/FeiLiu36/EoH), [paper](https://arxiv.org/abs/2401.02051)
 + ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, Arxiv, Feb 2024, [code](https://github.com/ai4co/LLM-as-HH), [paper](https://arxiv.org/abs/2402.01145)
 + Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs), [code], [paper](https://arxiv.org/abs/2402.02456)
 + AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.10705)
@@ -66,16 +66,16 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
 + Large language model for multi-objective evolutionary optimization, Arxiv, Oct. 2023, [code](https://github.com/FeiLiu36/LLM4MOEA), [paper](https://arxiv.org/abs/2310.12541)
 + Large Language Models as Evolutionary Optimizers, Arxiv, Oct. 2023, [code](), [paper](https://arxiv.org/abs/2310.19046)
-+ Using Large Language Models for Hyperparameter Optimization, NeurIPS 2023, [code], [paper](https://arxiv.org/abs/2312.04528)
++ Using Large Language Models for Hyperparameter Optimization, **NeurIPS 2023**, [code], [paper](https://arxiv.org/abs/2312.04528)
 + Large Language Models As Evolution Strategies, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.18381)
 + Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
 
 
 ### Machine Learning
 + Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
-+ Evoprompting: Language models for code-level neural architecture search, NeuIPS 2023, [code], [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)
-+ Eureka: Human-Level Reward Design via Coding Large Language Models, ICLR 2024, [code](https://github.com/eureka-research/Eureka), [paper](https://arxiv.org/abs/2310.12931)
-+ L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, GECCO 2024, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
++ Evoprompting: Language models for code-level neural architecture search, **NeuIPS 2023**, [code], [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)
++ Eureka: Human-Level Reward Design via Coding Large Language Models, **ICLR 2024**, [code](https://github.com/eureka-research/Eureka), [paper](https://arxiv.org/abs/2310.12931)
++ L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks, **GECCO 2024**, Jan 2024 [code], [paper](https://arxiv.org/abs/2401.15335)
 + Data-driven Discovery with Large Generative Models, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.13610)
 + Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.11518)
 + LLM Guided Evolution-The Automation of Models Advancing Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.11446)
