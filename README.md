@@ -37,6 +37,7 @@ The sharing principle of these references here is for research. If any authors d
 + ICML 2024 [Workshop: AI for Math](https://sites.google.com/view/ai4mathworkshopicml2024)
 
 ## Competition
++ ICML 2024 [Challenges on Automated Math Reasoning](https://sites.google.com/view/ai4mathworkshopicml2024/challenges)
 
 ## Papers
 ### Review
