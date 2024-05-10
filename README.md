@@ -32,7 +32,7 @@ The sharing principle of these references here is for research. If any authors d
 + NeurIPS 2023 [Workshop: Foundation Models for Decision Making](https://nips.cc/virtual/2023/workshop/66525)
 + GECCO 2024 [Workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC)](https://sites.google.com/view/llmfwec-2024)
 + GECCO 2024 [Workshop: EGML-EC — 3rd GECCO workshop on Enhancing Generative Machine Learning with Evolutionary Computation (EGML-EC) 2024](https://sites.google.com/view/egml-ec2024)
-+ GECCO 2024 [Tutorial: Using Large Language Models for Evolutionary Search](https://gecco-2024.sigevo.org/Tutorials)
++ GECCO 2024 [Tutorial: Using Large Language Models for Evolutionary Search](https://gecco-2024.sigevo.org/Tutorials) [Tutorial Report: Evolving Code with A Large Language Model](https://arxiv.org/pdf/2401.07102)
 + PPSN 2024 [Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities](https://ppsn2024.fh-ooe.at/program/)
 + KDD 2024 [Tutorial: NL2Code-Reasoning and Planning with LLM for Code Development](https://kdd2024.kdd.org/workshops/), [DEEP LEARNING AND LARGE LANGUAGE MODELS FOR KNOWLEDGE GRAPHS](https://genetasefa.github.io/dl4kg2024/)
 + ICML 2024 [Workshop: AI for Math](https://sites.google.com/view/ai4mathworkshopicml2024)
