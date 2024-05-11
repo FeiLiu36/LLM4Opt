@@ -92,7 +92,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Industry
 + Large Language Models for Supply Chain Optimization, Arxiv, July 2023, [code], [paper](https://arxiv.org/abs/2307.03875)
-+ LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation, Arxiv, Dec. 2023, [code](https://github.com/Thinklab-SJTU/Awesome-LLM4EDA), [paper](https://arxiv.org/abs/2401.12224)
++ LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation, Arxiv, Dec. 2023, [code], [paper](https://arxiv.org/abs/2401.12224)
 
 
 ## Related Collections
