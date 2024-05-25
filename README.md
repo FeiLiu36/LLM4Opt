@@ -51,7 +51,8 @@ The sharing principle of these references here is for research. If any authors d
 + The Era OF Semantic Decoding, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
 + Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions, **ICML 2024** , May 2024, [code], [paper](https://arxiv.org/abs/2405.03547)
 
-### Algorithm Design
+### Algorithm/Heuristic/Function Search
++ ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search, Arxiv Oct 2023, **ICLR 2024** [code] [paper](https://arxiv.org/abs/2310.13227)
 + Algorithm Evolution using Large Language Model, Arxiv, Nov 2023, [code](https://github.com/FeiLiu36/eoh),[paper](https://arxiv.org/abs/2311.15249) 
 + Mathematical discoveries from program search with large language models, **Nature**, Dec 2023, [code](https://github.com/google-deepmind/funsearch),[paper](https://www.nature.com/articles/s41586-023-06924-6)
 + Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, **ICML, 2024**, [code](https://github.com/FeiLiu36/EoH), [paper](https://arxiv.org/abs/2401.02051)
@@ -67,6 +68,7 @@ The sharing principle of these references here is for research. If any authors d
 + LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
 + Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17508)
 + GLHF: General Learned Evolutionary Algorithm Via Hyper Functions, Arxiv [code] [paper](https://arxiv.org/pdf/2405.03728)
+
 
 
 ### LLM as optimizer
