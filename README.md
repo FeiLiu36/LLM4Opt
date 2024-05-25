@@ -78,6 +78,11 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
 + Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, Arxiv, May 9, 2024, [code], [paper](https://arxiv.org/pdf/2401.03038)
 
+### Code Generation
++ L2MAC: LARGE LANGUAGE MODEL AUTOMATIC COMPUTER FOR EXTENSIVE CODE GENERATION, Arxiv Oct 2023, **ICLR 2024**, [code] [paper](https://arxiv.org/abs/2310.02003)
++ 
+
+
 ### Prompt Opt
 + Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, Arxiv Sep 2023, **ICLR 2024** [code], [paper](https://arxiv.org/abs/2309.03409)
 + PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization, Arxiv Oct 2023, **ICLR 2024** [code], [paper](https://arxiv.org/abs/2310.16427)
