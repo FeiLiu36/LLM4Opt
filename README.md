@@ -78,6 +78,8 @@ The sharing principle of these references here is for research. If any authors d
 + Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
 + Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, Arxiv, May 9, 2024, [code], [paper](https://arxiv.org/pdf/2401.03038)
 
+### Prompt Opt
++ Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, Arxiv Sep 2023, **ICLR 2024** [code], [paper](https://arxiv.org/abs/2309.03409)
 
 ### Machine Learning
 + Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
