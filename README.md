@@ -65,7 +65,7 @@ The sharing principle of these references here is for research. If any authors d
 + How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Arxiv, March 2024, [code], [paper](https://arxiv.org/abs/2403.01757)
 + LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
 + Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17508)
-+ GLHF: General Learned Evolutionary Algorithm Via Hyper Functions, **ICML 2024**, [code] [paper](https://arxiv.org/pdf/2405.03728)
++ GLHF: General Learned Evolutionary Algorithm Via Hyper Functions, Arxiv [code] [paper](https://arxiv.org/pdf/2405.03728)
 
 ### LLM as optimizer
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
