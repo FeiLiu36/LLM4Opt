@@ -71,8 +71,6 @@ The sharing principle of these references here is for research. If any authors d
 + GLHF: General Learned Evolutionary Algorithm Via Hyper Functions, Arxiv [code] [paper](https://arxiv.org/pdf/2405.03728)
 
 
-
-
 ### LLM as optimizer
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
 + Large language model for multi-objective evolutionary optimization, Arxiv, Oct. 2023, [code](https://github.com/FeiLiu36/LLM4MOEA), [paper](https://arxiv.org/abs/2310.12541)
@@ -93,6 +91,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Machine Learning
 + Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
++ Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph, Arxiv July 2023, **ICLR 2024**, [code], [paper](https://arxiv.org/abs/2307.07697)
 + Evoprompting: Language models for code-level neural architecture search, **NeuIPS 2023**, [code], [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/184c1e18d00d7752805324da48ad25be-Paper-Conference.pdf)
 + Eureka: Human-Level Reward Design via Coding Large Language Models, **ICLR 2024**, [code](https://github.com/eureka-research/Eureka), [paper](https://arxiv.org/abs/2310.12931)
 + LANGUAGE MODEL DECODING AS DIRECT METRICS OPTIMIZATION, Arxiv, Oct 2023, **ICLR 2024**, [code], [paper](https://arxiv.org/abs/2310.01041)
@@ -103,6 +102,7 @@ The sharing principle of these references here is for research. If any authors d
 + LLM Guided Evolution-The Automation of Models Advancing Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.11446)
 + Identify Critical Nodes in Complex Network with Large Language Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.03962)
 + Evolving Interpretable Visual Classifiers with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.09941)
+
 
 
 
