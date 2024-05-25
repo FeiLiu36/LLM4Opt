@@ -80,6 +80,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Prompt Opt
 + Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, Arxiv Sep 2023, **ICLR 2024** [code], [paper](https://arxiv.org/abs/2309.03409)
++ PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization, Arxiv Oct 2023, **ICLR 2024** [code], [paper](https://arxiv.org/abs/2310.16427)
 
 ### Machine Learning
 + Evolution through Large Models, Arxiv, June 2022, [code](https://github.com/CarperAI/OpenELM), [arxiv paper](https://arxiv.org/abs/2206.08896), [chapter](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)
