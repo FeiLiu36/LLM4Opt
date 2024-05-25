@@ -58,6 +58,7 @@ The sharing principle of these references here is for research. If any authors d
 + ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, Arxiv, Feb 2024, [code](https://github.com/ai4co/LLM-as-HH), [paper](https://arxiv.org/abs/2402.01145)
 + Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs), [code], [paper](https://arxiv.org/abs/2402.02456)
 + AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.10705)
++ Large Language Models tO Enhance Bayesian Optimization, Arxiv Feb 2024, **ICLR 2024** [code], [paper](https://openreview.net/pdf?id=OOxotBmGol)
 + On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks, Arxiv, Feb 2024, [code], [paper](https://arxiv.org/abs/2402.08115)
 + How Can LLM Guide RL? A Value-Based Approach, Arxiv, Feb 2024, [code](https://github.com/agentification/Language-Integrated-VI), [paper](https://arxiv.org/abs/2402.16181)
 + Evolve Cost-aware Acquisition Functions Using Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.16906)
@@ -66,6 +67,7 @@ The sharing principle of these references here is for research. If any authors d
 + LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.01617)
 + Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17508)
 + GLHF: General Learned Evolutionary Algorithm Via Hyper Functions, Arxiv [code] [paper](https://arxiv.org/pdf/2405.03728)
+
 
 ### LLM as optimizer
 + Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
