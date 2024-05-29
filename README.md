@@ -103,9 +103,6 @@ The sharing principle of these references here is for research. If any authors d
 + Identify Critical Nodes in Complex Network with Large Language Models, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.03962)
 + Evolving Interpretable Visual Classifiers with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.09941)
 
-
-
-
 ### Science
 + A Prompt-Engineered Large Language Model, Deep Learning Workflow for Materials Classification, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.17788)
 + LLM-SR: Scientific Equation Discovery via Programming with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/pdf/2404.18400)
@@ -114,6 +111,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Industry
 + Large Language Models for Supply Chain Optimization, Arxiv, July 2023, [code], [paper](https://arxiv.org/abs/2307.03875)
++ How Can Large Language Models Help Humans in Design and Manufacturing, Arxiv, July 2023, [code], [paper](https://arxiv.org/pdf/2307.14377)
 + LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation, Arxiv, Dec. 2023, [code], [paper](https://arxiv.org/abs/2401.12224)
 
 
