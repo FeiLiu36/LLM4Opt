@@ -110,6 +110,7 @@ The sharing principle of these references here is for research. If any authors d
 + A Prompt-Engineered Large Language Model, Deep Learning Workflow for Materials Classification, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.17788)
 + LLM-SR: Scientific Equation Discovery via Programming with Large Language Models, Arxiv, April 2024, [code], [paper](https://arxiv.org/pdf/2404.18400)
 + Large Language Model Agent as a Mechanical Designer, Arxiv, April 2024, [code], [paper](https://arxiv.org/abs/2404.17525)
++ LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery, Arxiv, May 2024, [code], [paper](https://arxiv.org/pdf/2405.09783)
 
 ### Industry
 + Large Language Models for Supply Chain Optimization, Arxiv, July 2023, [code], [paper](https://arxiv.org/abs/2307.03875)
