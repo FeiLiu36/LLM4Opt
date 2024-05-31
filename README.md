@@ -30,6 +30,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Tutorial&Workshop
 + NeurIPS 2023 [Workshop: Foundation Models for Decision Making](https://nips.cc/virtual/2023/workshop/66525)
++ AAAI 2024 [Workshop: Public Sector LLMs: Algorithmic and Sociotechnical Design](https://publlm.github.io/)
 + GECCO 2024 [Workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC)](https://sites.google.com/view/llmfwec-2024)
 + GECCO 2024 [Workshop: EGML-EC — 3rd GECCO workshop on Enhancing Generative Machine Learning with Evolutionary Computation (EGML-EC) 2024](https://sites.google.com/view/egml-ec2024)
 + GECCO 2024 [Tutorial: Using Large Language Models for Evolutionary Search](https://gecco-2024.sigevo.org/Tutorials) || [Tutorial Report: Evolving Code with A Large Language Model](https://arxiv.org/pdf/2401.07102)
