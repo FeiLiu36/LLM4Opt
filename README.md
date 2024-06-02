@@ -120,4 +120,5 @@ The sharing principle of these references here is for research. If any authors d
 + [Foundation Models for Combinatorial Optimization](https://github.com/ai4co/awesome-fm4co)
 + [MOO-ML-Papers](https://github.com/xzhang2523/awesome-moo-ml-papers)
 + [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
++ [LLM for Planning](https://ai4society.github.io/LLM-Planning-Viz/)
 
