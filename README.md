@@ -142,10 +142,10 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ## Related Collections
-| Title                               | Publication with Date              | Code                                    | Paper                                 |
-|-------------------------------------|-------------------------------------|-----------------------------------------|---------------------------------------|
-| Awesome LLM                         | [Link](https://github.com/Hannibal046/Awesome-LLM) | - | - |
-| Foundation Models for Combinatorial Optimization | [Link](https://github.com/ai4co/awesome-fm4co) | - | - |
-| LLM for Planning                    | [Link](https://ai4society.github.io/LLM-Planning-Viz/) | - | - |
-| MOO-ML-Papers                       | [Link](https://github.com/xzhang2523/awesome-moo-ml-papers) | - | - |
+| Collection                             | Link            |
+|-------------------------------------|-------------------------------------|
+| Awesome LLM                         | [Link](https://github.com/Hannibal046/Awesome-LLM) |
+| Foundation Models for Combinatorial Optimization | [Link](https://github.com/ai4co/awesome-fm4co) |
+| LLM for Planning                    | [Link](https://ai4society.github.io/LLM-Planning-Viz/) | 
+| MOO-ML-Papers                       | [Link](https://github.com/xzhang2523/awesome-moo-ml-papers) | 
 
