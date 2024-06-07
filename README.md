@@ -89,14 +89,15 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### LLM as optimizer
-+ Large Language Models as Optimizers, Arxiv, Sep 2023, [code](https://github.com/google-deepmind/opro), [paper](https://arxiv.org/abs/2309.03409)
-+ Large language model for multi-objective evolutionary optimization, Arxiv, Oct. 2023, [code](https://github.com/FeiLiu36/LLM4MOEA), [paper](https://arxiv.org/abs/2310.12541)
-+ Large Language Models as Evolutionary Optimizers, Arxiv, Oct. 2023, [code], [paper](https://arxiv.org/abs/2310.19046)
-+ Using Large Language Models for Hyperparameter Optimization, **NeurIPS 2023**, [code], [paper](https://arxiv.org/abs/2312.04528)
-+ Large Language Models As Evolution Strategies, Arxiv, Feb. 2024, [code], [paper](https://arxiv.org/abs/2402.18381)
-+ Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.02054)
-+ Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, Arxiv, May 9, 2024, [code], [paper](https://arxiv.org/pdf/2401.03038)
-
+| Title | Publication with Date | Code | Paper |
+| ----- | ---------------------- | ---- | ------ |
+| Large Language Models as Optimizers | Arxiv, Sep 2023 | [code](https://github.com/google-deepmind/opro) | [paper](https://arxiv.org/abs/2309.03409) |
+| Large language model for multi-objective evolutionary optimization | Arxiv, Oct. 2023 | [code](https://github.com/FeiLiu36/LLM4MOEA) | [paper](https://arxiv.org/abs/2310.12541) |
+| Large Language Models as Evolutionary Optimizers | Arxiv, Oct. 2023 | [code] | [paper](https://arxiv.org/abs/2310.19046) |
+| Using Large Language Models for Hyperparameter Optimization | NeurIPS 2023 | [code] | [paper](https://arxiv.org/abs/2312.04528) |
+| Large Language Models As Evolution Strategies | Arxiv, Feb. 2024 | [code] | [paper](https://arxiv.org/abs/2402.18381) |
+| Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism | Arxiv, Mar. 2024 | [code] | [paper](https://arxiv.org/abs/2403.02054) |
+| Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization | Arxiv, May 9, 2024 | [code] | [paper](https://arxiv.org/pdf/2401.03038) |
 ### Code Generation
 | Title | Publication with Date | Code | Paper |
 |-------|-----------------------|------|-------|
