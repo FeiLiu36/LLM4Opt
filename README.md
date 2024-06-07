@@ -106,8 +106,8 @@ The sharing principle of these references here is for research. If any authors d
 ### Prompt Opt
 | Title | Publication with Date | Code | Paper |
 |-------|-----------------------|------|-------|
-| Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers | Arxiv Sep 2023, ICLR 2024 | [code](#), [paper](https://arxiv.org/abs/2309.03409) |
-| PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization | Arxiv Oct 2023, ICLR 2024 | [code](#), [paper](https://arxiv.org/abs/2310.16427) |
+| Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers | Arxiv Sep 2023, ICLR 2024 | [code] | [paper](https://arxiv.org/abs/2309.03409) |
+| PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization | Arxiv Oct 2023, ICLR 2024 | [code] | [paper](https://arxiv.org/abs/2310.16427) |
 
 ### Machine Learning
 | Title | Publication with Date | Code | Paper |
