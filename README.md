@@ -25,22 +25,28 @@ The sharing principle of these references here is for research. If any authors d
   * [...]
  
 ## Platform
-+ [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH) (optimization, mathematics, machine learning, etc)
-+ [OpenELM](https://github.com/CarperAI/OpenELM) (robots, image, programming puzzles, etc)
+| Project Name                                          | Description                                     |
+|------------------------------------------------------|-------------------------------------------------|
+| [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH)  | optimization, mathematics, machine learning, etc |
+| [OpenELM](https://github.com/CarperAI/OpenELM)        | robots, image, programming puzzles, etc         |
 
 ## Tutorial&Workshop
-+ NeurIPS 2023 [Workshop: Foundation Models for Decision Making](https://nips.cc/virtual/2023/workshop/66525)
-+ AAAI 2024 [Workshop: Public Sector LLMs: Algorithmic and Sociotechnical Design](https://publlm.github.io/)
-+ GECCO 2024 [Workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC)](https://sites.google.com/view/llmfwec-2024)
-+ GECCO 2024 [Workshop: EGML-EC — 3rd GECCO workshop on Enhancing Generative Machine Learning with Evolutionary Computation (EGML-EC) 2024](https://sites.google.com/view/egml-ec2024)
-+ GECCO 2024 [Tutorial: Using Large Language Models for Evolutionary Search](https://gecco-2024.sigevo.org/Tutorials) || [Tutorial Report: Evolving Code with A Large Language Model](https://arxiv.org/pdf/2401.07102)
-+ PPSN 2024 [Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities](https://ppsn2024.fh-ooe.at/program/)
-+ KDD 2024 [Tutorial: NL2Code-Reasoning and Planning with LLM for Code Development](https://kdd2024.kdd.org/workshops/), [DEEP LEARNING AND LARGE LANGUAGE MODELS FOR KNOWLEDGE GRAPHS](https://genetasefa.github.io/dl4kg2024/)
-+ ICML 2024 [Workshop: AI for Math](https://sites.google.com/view/ai4mathworkshopicml2024)
+| Event                                                | Description                                                      |
+|------------------------------------------------------|------------------------------------------------------------------|
+| NeurIPS 2023 Workshop: Foundation Models for Decision Making | [Link](https://nips.cc/virtual/2023/workshop/66525)            |
+| AAAI 2024 Workshop: Public Sector LLMs: Algorithmic and Sociotechnical Design | [Link](https://publlm.github.io/)                             |
+| GECCO 2024 Workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) | [Link](https://sites.google.com/view/llmfwec-2024)              |
+| GECCO 2024 Workshop: EGML-EC — 3rd GECCO workshop on Enhancing Generative Machine Learning with Evolutionary Computation (EGML-EC) 2024 | [Link](https://sites.google.com/view/egml-ec2024)            |
+| GECCO 2024 Tutorial: Using Large Language Models for Evolutionary Search | [Tutorial Link](https://gecco-2024.sigevo.org/Tutorials), [Tutorial Report Link](https://arxiv.org/pdf/2401.07102) |
+| PPSN 2024 Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities | [Link](https://ppsn2024.fh-ooe.at/program/)                   |
+| KDD 2024 Tutorial: NL2Code-Reasoning and Planning with LLM for Code Development | [Link](https://kdd2024.kdd.org/workshops/), [Link](https://genetasefa.github.io/dl4kg2024/) |
+| ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
 
 ## Competition
-+ AAAI 2024 [Global Competition on Math Problem Solving and Reasoning](https://ai4ed.cc/competitions/aaai2024competition)
-+ ICML 2024 [Challenges on Automated Math Reasoning](https://sites.google.com/view/ai4mathworkshopicml2024/challenges)
+| Event                                                | Description                                                      |
+|------------------------------------------------------|------------------------------------------------------------------|
+| AAAI 2024 Global Competition on Math Problem Solving and Reasoning | [Link](https://ai4ed.cc/competitions/aaai2024competition)      |
+| ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
 
 ## Papers
 ### Review
