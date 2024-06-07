@@ -1,7 +1,7 @@
 # LLM4Opt
 ## Collection on Large Language Models for Optimization (LLM4Opt)
 
-Applying Large language models (**LLMs**) for diverse optimization tasks (**Opt**) is an emerging research area. This is a collection of references and papers of **LLM4Opt**. The Papers are sorted by time (first publicly available). 
+🔥 Applying Large language models (**LLMs**) for diverse optimization tasks (**Opt**) is an emerging research area. This is a collection of references and papers of **LLM4Opt**. The Papers are sorted by time (first publicly available). 
 
 **Any suggestions and pull requests are welcomed!**
 
