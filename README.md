@@ -20,7 +20,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Position Paper]
   * [AI, Algorithm Design]
   * [LLM as optimizer]
-  * [Machine Learning](https://github.com/FeiLiu36/LLM4Opt#Papers#machine-learning)
+  * [Machine Learning](https://github.com/FeiLiu36/LLM4Opt#machine-learning)
   * [Science]
   * [...]
  
