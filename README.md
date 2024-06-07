@@ -16,13 +16,17 @@ The sharing principle of these references here is for research. If any authors d
 * [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
 * [Competition](https://github.com/FeiLiu36/LLM4Opt#Competition)
 * [Research Papers](https://github.com/FeiLiu36/LLM4Opt#Papers)
-  * [Review](https://github.com/FeiLiu36/LLM4Opt#Papers#Review)
-  * [Position Paper]
-  * [AI, Algorithm Design]
-  * [LLM as optimizer]
+  * [Review](https://github.com/FeiLiu36/LLM4Opt#Review)
+  * [Position Paper](https://github.com/FeiLiu36/LLM4Opt#position-paper)
+  * [Algorithm/Heuristic/Function Search](https://github.com/FeiLiu36/LLM4Opt#algorithm/heuristic/function-search)
+  * [LLM as optimizer](https://github.com/FeiLiu36/LLM4Opt#llm-as-optimizer)
+  * [Code Generation](https://github.com/FeiLiu36/LLM4Opt#code-generation)
+  * [Prompt Opt.](https://github.com/FeiLiu36/LLM4Opt#prompt-opt)
   * [Machine Learning](https://github.com/FeiLiu36/LLM4Opt#machine-learning)
-  * [Science]
-  * [...]
+  * [Science](https://github.com/FeiLiu36/LLM4Opt#science)
+  * [Industry](https://github.com/FeiLiu36/LLM4Opt#industry)
+* [Related Collections](https://github.com/FeiLiu36/LLM4Opt#related-collections)
+
  
 ## Platform
 | Project Name                                          | Description                                     |
