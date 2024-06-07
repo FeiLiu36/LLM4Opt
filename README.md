@@ -78,12 +78,12 @@ The sharing principle of these references here is for research. If any authors d
 | Hypothesis Search: Inductive Reasoning with Language Models | Arxiv Sep 2023, ICLR 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2309.05660) |
 | ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search | Arxiv Oct 2023, ICLR 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2310.13227) |
 | Algorithm Evolution using Large Language Model | Arxiv Nov 2023 | [code](https://github.com/FeiLiu36/eoh) | [paper](https://arxiv.org/abs/2311.15249) |
-| Mathematical discoveries from program search with large language models | Nature, Dec 2023 | [code](https://github.com/google-deepmind/funsearch) | [paper](https://www.nature.com/articles/s41586-023-06924-6) |
-| Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model | ICML 2024 **Oral** | [code](https://github.com/FeiLiu36/EoH) | [paper](https://arxiv.org/abs/2401.02051) |
+| Mathematical discoveries from program search with large language models | **Nature** | [code](https://github.com/google-deepmind/funsearch) | [paper](https://www.nature.com/articles/s41586-023-06924-6) |
+| Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model | **ICML 2024 (Oral)** | [code](https://github.com/FeiLiu36/EoH) | [paper](https://arxiv.org/abs/2401.02051) |
 | ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution | Arxiv Feb 2024 | [code](https://github.com/ai4co/LLM-as-HH) | [paper](https://arxiv.org/abs/2402.01145) |
 | Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs) | | [code](enter-code-here) | [paper](https://arxiv.org/abs/2402.02456) |
 | AutoSAT: Automatically Optimize SAT Solvers via Large Language Models | Arxiv Feb 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2402.10705) |
-| Large Language Models tO Enhance Bayesian Optimization | Arxiv Feb 2024, ICLR 2024 | [code](enter-code-here) | [paper](https://openreview.net/pdf?id=OOxotBmGol) |
+| Large Language Models tO Enhance Bayesian Optimization | Arxiv Feb 2024, **ICLR 2024** | [code](enter-code-here) | [paper](https://openreview.net/pdf?id=OOxotBmGol) |
 | On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks | Arxiv Feb 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2402.08115) |
 | How Can LLM Guide RL? A Value-Based Approach | Arxiv Feb 2024 | [code](https://github.com/agentification/Language-Integrated-VI) | [paper](https://arxiv.org/abs/2402.16181) |
 | Evolve Cost-aware Acquisition Functions Using Large Language Models | Arxiv April 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2404.16906) |
