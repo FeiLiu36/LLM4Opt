@@ -16,11 +16,11 @@ The sharing principle of these references here is for research. If any authors d
 * [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
 * [Competition](https://github.com/FeiLiu36/LLM4Opt#Competition)
 * [Research Papers](https://github.com/FeiLiu36/LLM4Opt#Papers)
-  * [Review]
+  * [Review](https://github.com/FeiLiu36/LLM4Opt#Papers#Review)
   * [Position Paper]
   * [AI, Algorithm Design]
   * [LLM as optimizer]
-  * [Machine Learning]
+  * [Machine Learning](https://github.com/FeiLiu36/LLM4Opt#Papers#Machine)
   * [Science]
   * [...]
  
