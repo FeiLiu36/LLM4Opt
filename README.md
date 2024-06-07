@@ -31,7 +31,7 @@ The sharing principle of these references here is for research. If any authors d
 | [OpenELM](https://github.com/CarperAI/OpenELM)        | robots, image, programming puzzles, etc         |
 
 ## Tutorial&Workshop
-| Event                                                | Description                                                      |
+| Event                                                | Link                                                     |
 |------------------------------------------------------|------------------------------------------------------------------|
 | NeurIPS 2023 Workshop: Foundation Models for Decision Making | [Link](https://nips.cc/virtual/2023/workshop/66525)            |
 | AAAI 2024 Workshop: Public Sector LLMs: Algorithmic and Sociotechnical Design | [Link](https://publlm.github.io/)                             |
@@ -43,7 +43,7 @@ The sharing principle of these references here is for research. If any authors d
 | ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
 
 ## Competition
-| Event                                                | Description                                                      |
+| Event                                                | Link                                                  |
 |------------------------------------------------------|------------------------------------------------------------------|
 | AAAI 2024 Global Competition on Math Problem Solving and Reasoning | [Link](https://ai4ed.cc/competitions/aaai2024competition)      |
 | ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
