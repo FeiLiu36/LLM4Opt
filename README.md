@@ -49,14 +49,13 @@ The sharing principle of these references here is for research. If any authors d
 | ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
 
 ## Papers
-### Review
-+ Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, Arxiv, Jan 2024, [code], [paper](https://arxiv.org/abs/2401.10034)
-+ A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/abs/2403.14734)
-+ When Large Language Model Meets Optimization, Arxiv, May 2024, [code], [paper](http://www.arxiv.org/pdf/2405.10098)
-
-### Position paper
-+ The Era OF Semantic Decoding, Arxiv, Mar. 2024, [code], [paper](https://arxiv.org/pdf/2403.14562)
-+ Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions, **ICML 2024** , May 2024, [code], [paper](https://arxiv.org/abs/2405.03547)
+| Category | Title | Publication | Date | Code | Paper |
+| --- | --- | --- | --- | --- | --- |
+| Review | Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap | Arxiv | Jan 2024 | [code] | [paper](https://arxiv.org/abs/2401.10034) |
+| Review | A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond | Arxiv | Mar. 2024 | [code] | [paper](https://arxiv.org/abs/2403.14734) |
+| Review | When Large Language Model Meets Optimization | Arxiv | May 2024 | [code] | [paper](http://www.arxiv.org/pdf/2405.10098) |
+| Position paper | The Era OF Semantic Decoding | Arxiv | Mar. 2024 | [code] | [paper](https://arxiv.org/pdf/2403.14562) |
+| Position paper | Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions | ICML 2024 | May 2024 | [code] | [paper](https://arxiv.org/abs/2405.03547) |
 
 ### Algorithm/Heuristic/Function Search
 + Hypothesis Search: Inductive Reasoning with Language Models, Arxiv Sep 2023, **ICLR 2024**, [code] [paper](https://arxiv.org/abs/2309.05660)
