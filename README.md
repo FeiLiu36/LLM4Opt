@@ -104,6 +104,12 @@ The sharing principle of these references here is for research. If any authors d
 | Large Language Models As Evolution Strategies | Arxiv, Feb. 2024 | [code] | [paper](https://arxiv.org/abs/2402.18381) |
 | Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism | Arxiv, Mar. 2024 | [code] | [paper](https://arxiv.org/abs/2403.02054) |
 | Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization | Arxiv, May 9, 2024 | [code] | [paper](https://arxiv.org/pdf/2401.03038) |
+
+### LLM as surrogate model
+| Title | Publication with Date | Code | Paper |
+| ----- | ---------------------- | ---- | ------ |
+| Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study | Arxiv, June 2024 | [code](https://github.com/hhyqhh/LAEA.git) | [paper](https://arxiv.org/pdf/2406.10675) |
+
 ### Code Generation
 | Title | Publication with Date | Code | Paper |
 |-------|-----------------------|------|-------|
