@@ -92,6 +92,7 @@ The sharing principle of these references here is for research. If any authors d
 | LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models | Arxiv April 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2404.01617) |
 | Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems | Arxiv April 2024 | [code](enter-code-here) | [paper](https://arxiv.org/abs/2404.17508) |
 | GLHF: General Learned Evolutionary Algorithm Via Hyper Functions | Arxiv | [code](enter-code-here) | [paper](https://arxiv.org/pdf/2405.03728) |
+| tnGPS: Discovering Unknown Tensor Network Structure Search Algorithms via Large Language Models (LLMs) | ICML 2024 | [code] | [paper](https://openreview.net/pdf?id=LVgT0ShxN5) |
 
 
 ### LLM as optimizer
