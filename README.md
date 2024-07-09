@@ -106,10 +106,12 @@ The sharing principle of these references here is for research. If any authors d
 | Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization | Arxiv, May 9, 2024 | [code] | [paper](https://arxiv.org/pdf/2401.03038) |
 | Towards Optimizing with Large Language Model | KDD 2024 | [code] | [paper](https://arxiv.org/abs/2310.05204)  |
 
-### LLM as surrogate model
+### LLM as/for surrogate model
 | Title | Publication with Date | Code | Paper |
 | ----- | ---------------------- | ---- | ------ |
 | Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study | Arxiv, June 2024 | [code](https://github.com/hhyqhh/LAEA.git) | [paper](https://arxiv.org/pdf/2406.10675) |
+| Large Language Model-assisted Surrogate Modelling for Engineering Optimization | CAI, 2024 | [code]  | [paper](https://ieeecai.org/2024/wp-content/pdfs/540900a807/540900a807.pdf) |
+
 
 ### Code Generation
 | Title | Publication with Date | Code | Paper |
