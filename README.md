@@ -93,6 +93,7 @@ The sharing principle of these references here is for research. If any authors d
 | Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems | Arxiv April 2024 | [code]  | [paper](https://arxiv.org/abs/2404.17508) |
 | GLHF: General Learned Evolutionary Algorithm Via Hyper Functions | Arxiv | [code]  | [paper](https://arxiv.org/pdf/2405.03728) |
 | tnGPS: Discovering Unknown Tensor Network Structure Search Algorithms via Large Language Models (LLMs) | ICML 2024 | [code] | [paper](https://openreview.net/pdf?id=LVgT0ShxN5) |
+| LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics | Arxiv May 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/abs/2405.20132) |
 
 
 ### LLM as optimizer
