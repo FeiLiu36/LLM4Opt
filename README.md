@@ -47,6 +47,9 @@ The sharing principle of these references here is for research. If any authors d
 | PPSN 2024 Tutorial: Large Language Models as Tools for Metaheuristic Design: Exploring Challenges and Opportunities | [Link](https://ppsn2024.fh-ooe.at/program/)                   |
 | KDD 2024 Tutorial: NL2Code-Reasoning and Planning with LLM for Code Development | [Link](https://kdd2024.kdd.org/workshops/), [Link](https://genetasefa.github.io/dl4kg2024/) |
 | ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
+| NeurIPS 2024 Workshop: Multimodal Algorithmic Reasoning (MAR) | [Link](https://marworkshop.github.io/neurips24/) |
+| NeurIPS 2024 Workshop: The 4th Workshop on Mathematical Reasoning and AI | [Link](https://mathai2024.github.io/)  |
+| 
 
 ## Competition
 | Event                                                | Link                                                  |
