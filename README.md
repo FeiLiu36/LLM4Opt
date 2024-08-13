@@ -98,6 +98,7 @@ The sharing principle of these references here is for research. If any authors d
 | tnGPS: Discovering Unknown Tensor Network Structure Search Algorithms via Large Language Models (LLMs) | ICML 2024 | [code] | [paper](https://openreview.net/pdf?id=LVgT0ShxN5) |
 | LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics | Arxiv May 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/abs/2405.20132) |
 | Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models | PPSN 2024 | code | [paper](https://arxiv.org/abs/2407.10873) |
+| Discovering Preference Optimization Algorithms with and for Large Language Models | Arxiv June 2024 | code | [paper](https://arxiv.org/abs/2406.08414) |
 
 
 ### LLM as optimizer
