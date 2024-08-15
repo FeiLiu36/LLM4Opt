@@ -99,9 +99,9 @@ The sharing principle of these references here is for research. If any authors d
 | LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics | Arxiv May 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/abs/2405.20132) |
 | Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models | PPSN 2024 | code | [paper](https://arxiv.org/abs/2407.10873) |
 | Discovering Preference Optimization Algorithms with and for Large Language Models | Arxiv June 2024 | code | [paper](https://arxiv.org/abs/2406.08414) |
+| OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code | Arxiv May 2024 | [code](https://omni-epic.vercel.app/) | [paper](https://arxiv.org/pdf/2405.15568)  |
 
-
-### LLM as optimizer
+### LLM as Optimizer
 | Title | Publication with Date | Code | Paper |
 | ----- | ---------------------- | ---- | ------ |
 | Large Language Models as Optimizers | Arxiv, Sep 2023 | [code](https://github.com/google-deepmind/opro) | [paper](https://arxiv.org/abs/2309.03409) |
@@ -112,6 +112,7 @@ The sharing principle of these references here is for research. If any authors d
 | Large Language Model-based Evolutionary Optimizer: Reasoning with Elitism | Arxiv, Mar. 2024 | [code] | [paper](https://arxiv.org/abs/2403.02054) |
 | Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization | Arxiv, May 9, 2024 | [code] | [paper](https://arxiv.org/pdf/2401.03038) |
 | Towards Optimizing with Large Language Model | KDD 2024 | [code] | [paper](https://arxiv.org/abs/2310.05204)  |
+
 
 ### LLM as/for surrogate model
 | Title | Publication with Date | Code | Paper |
@@ -150,10 +151,12 @@ The sharing principle of these references here is for research. If any authors d
 ### Science
 | Title                                                     | Publication with Date | Code  | Paper                                                      |
 |-----------------------------------------------------------|-----------------------|-------|------------------------------------------------------------|
+| Exploring evolution-aware & -free protein language models as protein function predictors | NeurIPS 2022 | [code] | [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fe066022bab2a6c6a3c57032a1623c70-Abstract-Conference.html) |
 | A Prompt-Engineered Large Language Model                   | Arxiv, Jan 2024      | [code]| [paper](https://arxiv.org/abs/2401.17788)                  |
 | LLM-SR: Scientific Equation Discovery via Programming with Large Language Models | Arxiv, April 2024     | [code]| [paper](https://arxiv.org/pdf/2404.18400)                  |
 | Large Language Model Agent as a Mechanical Designer       | Arxiv, April 2024     | [code]| [paper](https://arxiv.org/abs/2404.17525)                  |
-| LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery | Arxiv, May 2024       | [code]| [paper](https://arxiv.org/pdf/2405.09783)                  |
+| LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery | Arxiv, May 2024       | [code](https://github.com/elttaes/Revisiting-PLMs) | [paper](https://arxiv.org/pdf/2405.09783)                  |
+
 
 ### Industry
 | Title                                                      | Publication with Date | Code  | Paper                                                                                   |
