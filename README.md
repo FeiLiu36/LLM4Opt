@@ -156,6 +156,7 @@ The sharing principle of these references here is for research. If any authors d
 | LLM-SR: Scientific Equation Discovery via Programming with Large Language Models | Arxiv, April 2024     | [code]| [paper](https://arxiv.org/pdf/2404.18400)                  |
 | Large Language Model Agent as a Mechanical Designer       | Arxiv, April 2024     | [code]| [paper](https://arxiv.org/abs/2404.17525)                  |
 | LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery | Arxiv, May 2024       | [code](https://github.com/elttaes/Revisiting-PLMs) | [paper](https://arxiv.org/pdf/2405.09783)                  |
+| Taming Large Language Model For Conversational Protein Design | ICLR, 2024  | [code]  |  [paper](https://openreview.net/pdf?id=sFJr7okOBi)   |
 
 
 ### Industry
