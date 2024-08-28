@@ -17,6 +17,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
 * [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
 * [Competition](https://github.com/FeiLiu36/LLM4Opt#Competition)
+* [Special Issues](https://github.com/FeiLiu36/LLM4Opt#SpecialIssues)
 * [Research Papers](https://github.com/FeiLiu36/LLM4Opt#Papers)
   * [Review](https://github.com/FeiLiu36/LLM4Opt#Review)
   * [Position Paper](https://github.com/FeiLiu36/LLM4Opt#position-paper)
@@ -56,6 +57,12 @@ The sharing principle of these references here is for research. If any authors d
 |------------------------------------------------------|------------------------------------------------------------------|
 | AAAI 2024 Global Competition on Math Problem Solving and Reasoning | [Link](https://ai4ed.cc/competitions/aaai2024competition)      |
 | ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
+
+## SpecialIssues
+| Event                                                | Link                                                  |
+|------------------------------------------------------|------------------------------------------------------------------|
+| IEEE TETCI, Special Issue on Neural Architecture Search and Large Machine Learning Models | [Link](https://cis.ieee.org/images/files/Documents/call-for-papers/CFP-SI-LMM-final.pdf)      |
+| ACM TELO, Special Issue on Integrating Evolutionary Algorithms and Large Language Models  | [Link](https://dl.acm.org/pb-assets/static_journal_pages/telo/pdf/ACM-CFP-TELO-LLMs-EAs-1717612765163.pdf) |
 
 ## Papers
 
