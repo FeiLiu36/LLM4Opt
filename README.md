@@ -63,6 +63,7 @@ The sharing principle of these references here is for research. If any authors d
 |------------------------------------------------------|------------------------------------------------------------------|
 | IEEE TETCI, Special Issue on Neural Architecture Search and Large Machine Learning Models | [Link](https://cis.ieee.org/images/files/Documents/call-for-papers/CFP-SI-LMM-final.pdf)      |
 | ACM TELO, Special Issue on Integrating Evolutionary Algorithms and Large Language Models  | [Link](https://dl.acm.org/pb-assets/static_journal_pages/telo/pdf/ACM-CFP-TELO-LLMs-EAs-1717612765163.pdf) |
+|IEEE TEVC, Special Issue on Evolutionary Computation Meets Large Language Models | [link](https://cis.ieee.org/images/files/Documents/call-for-papers/tevc/cfp-ECLLMs-26august2024.pdf)|
 
 ## Papers
 
