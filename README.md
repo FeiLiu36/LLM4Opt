@@ -15,6 +15,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Overview
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
+* [Course](https://github.com/FeiLiu36/LLM4Opt#Course)
 * [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
 * [Competition](https://github.com/FeiLiu36/LLM4Opt#Competition)
 * [Special Issues](https://github.com/FeiLiu36/LLM4Opt#SpecialIssues)
@@ -32,10 +33,17 @@ The sharing principle of these references here is for research. If any authors d
 
  
 ## Platform
-| Project Name                                          | Description                                     |
+| Project                                         | Description                                     |
 |------------------------------------------------------|-------------------------------------------------|
 | [EoH (Evolution of Heuristics)](https://github.com/FeiLiu36/EoH)  | optimization, mathematics, machine learning, etc |
 | [OpenELM](https://github.com/CarperAI/OpenELM)        | robots, image, programming puzzles, etc         |
+
+
+
+## Course
+| Course                                         | Description                                     |
+|------------------------------------------------------|-------------------------------------------------|
+| [2024 Fall, LLM Agents](https://llmagents-learning.org/f24)  | LLM basics and LLM for agents |
 
 ## Tutorial&Workshop
 | Event                                                | Link                                                     |
