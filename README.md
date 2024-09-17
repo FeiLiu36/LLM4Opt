@@ -11,7 +11,10 @@ It is far from a comprehensive list. If you want to update the list:
 + Report an [issue](https://github.com/FeiLiu36/LLM4Opt/issues)
 + Contact Fei Liu (fliu36-c@my.cityu.edu.hk)
   
+
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
+
+![monthly number of publications](./figures/number_month.png)
 
 ## Overview
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
@@ -31,7 +34,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Industry](https://github.com/FeiLiu36/LLM4Opt#industry)
 * [Related Collections](https://github.com/FeiLiu36/LLM4Opt#related-collections)
 
- 
+
 ## Platform
 | Project                                         | Description                                     |
 |------------------------------------------------------|-------------------------------------------------|
