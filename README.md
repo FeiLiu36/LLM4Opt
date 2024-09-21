@@ -108,7 +108,7 @@ The sharing principle of these references here is for research. If any authors d
 | Large Language Models tO Enhance Bayesian Optimization | Arxiv Feb 2024, **ICLR 2024** | [code]  | [paper](https://openreview.net/pdf?id=OOxotBmGol) |
 | On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks | Arxiv Feb 2024 | [code]  | [paper](https://arxiv.org/abs/2402.08115) |
 | How Can LLM Guide RL? A Value-Based Approach | Arxiv Feb 2024 | [code](https://github.com/agentification/Language-Integrated-VI) | [paper](https://arxiv.org/abs/2402.16181) |
-| LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation | [code](https://anonymous.4open.science/r/LLaMoCo-5125) | [paper](https://arxiv.org/abs/2403.01131)
+| LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation | Arxiv Mar 2024 | [code](https://anonymous.4open.science/r/LLaMoCo-5125) | [paper](https://arxiv.org/abs/2403.01131)
 | Evolve Cost-aware Acquisition Functions Using Large Language Models | **PPSN 2024** | [code]  | [paper](https://arxiv.org/abs/2404.16906) |
 | Benchmarking ChatGPT on Algorithmic Reasoning | Arxiv April 2024 | [code]  | [paper](https://arxiv.org/abs/2404.03441) |
 | How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems | Arxiv March 2024 | [code]  | [paper](https://arxiv.org/abs/2403.01757) |
