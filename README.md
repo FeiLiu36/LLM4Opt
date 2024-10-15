@@ -14,7 +14,7 @@ It is far from a comprehensive list. If you want to update the list:
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
 
-![monthly number of publications](./figures/number_month.png)
+![monthly number of publications](./figures/overview.png)
 
 ## Overview
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
