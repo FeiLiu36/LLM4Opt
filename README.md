@@ -68,6 +68,7 @@ The sharing principle of these references here is for research. If any authors d
 |------------------------------------------------------|------------------------------------------------------------------|
 | AAAI 2024 Global Competition on Math Problem Solving and Reasoning | [Link](https://ai4ed.cc/competitions/aaai2024competition)      |
 | ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
+| IEEE CIS 2024 Technical Challenge FLAME – ‘Fusing Large lAnguage Models with computational intElligence’  | [Link](https://cis.ieee.org/activities/educational-activites/competitions/flame-technical-challenge-2024) |
 
 ## SpecialIssues
 | Event                                                | Link                                                  |
