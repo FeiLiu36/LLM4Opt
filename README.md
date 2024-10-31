@@ -87,6 +87,7 @@ The sharing principle of these references here is for research. If any authors d
 | Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap | Arxiv, Jan 2024 | [code] | [paper](https://arxiv.org/abs/2401.10034) |
 | A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond | Arxiv, Mar. 2024 | [code] | [paper](https://arxiv.org/abs/2403.14734) |
 | When Large Language Model Meets Optimization | Arxiv, May 2024 | [code] | [paper](http://www.arxiv.org/pdf/2405.10098) |
+| A Systematic Survey on Large Language Models for Algorithm Design | Arxiv, Oct 2024 | [code] | [paper](https://arxiv.org/abs/2410.14716) |
 
 ### Position paper
 
