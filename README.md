@@ -16,7 +16,10 @@ The sharing principle of these references here is for research. If any authors d
 
 ![monthly number of publications](./figures/overview.png)
 
+Paper distribution from [A Systematic Survey on Large Language Models for Algorithm Design, 2024](https://arxiv.org/abs/2410.14716)
+
 ## Overview
+
 * [Platform](https://github.com/FeiLiu36/LLM4Opt#Platform)
 * [Course](https://github.com/FeiLiu36/LLM4Opt#Course)
 * [Tutorial](https://github.com/FeiLiu36/LLM4Opt#Tutorial&Workshop)
