@@ -122,6 +122,7 @@ The sharing principle of these references here is for research. If any authors d
 | Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models | PPSN 2024 | code | [paper](https://arxiv.org/abs/2407.10873) |
 | Discovering Preference Optimization Algorithms with and for Large Language Models | Arxiv June 2024 | code | [paper](https://arxiv.org/abs/2406.08414) |
 | OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code | Arxiv May 2024 | [code](https://omni-epic.vercel.app/) | [paper](https://arxiv.org/pdf/2405.15568)  |
+| In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics | Arxiv Oct 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/pdf/2410.16309) |
 
 ### LLM as Optimizer
 | Title | Publication with Date | Code | Paper |
