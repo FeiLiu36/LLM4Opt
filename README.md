@@ -64,7 +64,7 @@ Paper distribution from [A Systematic Survey on Large Language Models for Algori
 | ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
 | NeurIPS 2024 Workshop: Multimodal Algorithmic Reasoning (MAR) | [Link](https://marworkshop.github.io/neurips24/) |
 | NeurIPS 2024 Workshop: The 4th Workshop on Mathematical Reasoning and AI | [Link](https://mathai2024.github.io/)  |
-| 
+ 
 
 ## Competition
 | Event                                                | Link                                                  |
@@ -184,6 +184,7 @@ Paper distribution from [A Systematic Survey on Large Language Models for Algori
 | Large Language Model Agent as a Mechanical Designer       | Arxiv, April 2024     | [code]| [paper](https://arxiv.org/abs/2404.17525)                  |
 | LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery | Arxiv, May 2024       | [code](https://github.com/elttaes/Revisiting-PLMs) | [paper](https://arxiv.org/pdf/2405.09783)                  |
 | Taming Large Language Model For Conversational Protein Design | Openreview, 2024  | [code]  |  [paper](https://openreview.net/pdf?id=sFJr7okOBi)   |
+| AutoTurb: Using Large Language Models for Automatic Algebraic Model Discovery of Turbulence Closure | Arxiv, Oct. 2024| [code] | [paper](https://arxiv.org/pdf/2410.10657) |
 
 
 ### Industry
