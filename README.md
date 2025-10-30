@@ -3,8 +3,13 @@
 
 🔥 Applying Large language models (**LLMs**) for algorithm design (**AD**) is an emerging research area. This is a collection of references and papers of **LLM4AD** (with focus on optimization algorithms, original name LLM4Opt). The Papers are sorted by time (first publicly available). 
 
-Check survey paper [A Systematic Survey on Large Language Models for Algorithm Design, 2024](https://arxiv.org/abs/2410.14716) for details.
+**For more details, please see our survey paper:**
+*   [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (2024)
 
+**Video Introductions and Slides:**
+*   [English Webinar (IEEE CIS)](https://cis.taskforce.ieee.org/esco/webinar-series/esco-webinar-26/)
+*   [Chinese Introduction (中文视频介绍)](https://www.bilibili.com/video/BV1XTJVz9Ew1)
+*   
 **Any suggestions and pull requests are welcomed!**
 
 It is far from a comprehensive list. If you want to update the list:
