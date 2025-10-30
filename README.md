@@ -66,7 +66,7 @@ The sharing principle of these references here is for research. If any authors d
 | ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
 | NeurIPS 2024 Workshop: Multimodal Algorithmic Reasoning (MAR) | [Link](https://marworkshop.github.io/neurips24/) |
 | NeurIPS 2024 Workshop: The 4th Workshop on Mathematical Reasoning and AI | [Link](https://mathai2024.github.io/)  |
- 
+
 
 ## Competition
 | Event                                                | Link                                                  |
@@ -83,10 +83,17 @@ The sharing principle of these references here is for research. If any authors d
 |IEEE TEVC, Special Issue on Evolutionary Computation Meets Large Language Models | [link](https://cis.ieee.org/images/files/Documents/call-for-papers/tevc/cfp-ECLLMs-26august2024.pdf)|
 | Engineering, Special Issue on Applications of ChatGPT | [link](https://www.sciencedirect.com/journal/engineering/about/call-for-papers#applications-of-chatgpt) |
 
-
 ## <a name="PapersFourParadigms"></a>Research Papers in Four Paradigms
 
+1. LLM as Optimizer (LLMaO)
+2. LLM as Predictor (LLMaP)
+3. LLM as Extractor (LLMaE)
+4. LLM as Designer (LLMaD)
+
 ### <a name="llm-as-optimizer"></a>LLM as Optimizer
+
+![LLM as Optimizer (LLMaO)](./figures/LLMaO.png)
+
 | Title | Authors | Venue | Year |
 |-------|---------|-------|------|
 | [Large Language Model-assisted Meta-optimizer for Automated Design of Constrained Evolutionary Algorithm](https://arxiv.org/abs/2509.13251) | Xu Yang, Rui Wang, Kaiwen Li, Wenhua Li, and Weixiong Huang. | arXiv | 2025 |
@@ -123,6 +130,9 @@ The sharing principle of these references here is for research. If any authors d
 | [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) | Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba | ICLR | 2022 |
 
 ### <a name="llm-as-predictor"></a>LLM as Predictor
+
+![LLM as Predictor (LLMaP)](./figures/LLMaP.png)
+
 | Title | Authors | Venue | Year |
 |-------|---------|-------|------|
 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/abs/2509.16865) | Xia Jiang, Yaoxin Wu, Minshuo Li, Zhiguang Cao, and Yingqian Zhang | arXiv | 2025 |
@@ -144,6 +154,9 @@ The sharing principle of these references here is for research. If any authors d
 | [Exploring evolution-aware &-free protein language models as protein function predictors](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fe066022bab2a6c6a3c57032a1623c70-Abstract-Conference.html) | Hu, Mingyang; Yuan, Fajie; Yang, Kevin; Ju, Fusong; Su, Jin; Wang, Hui; Yang, Fei; Ding, Qiuyang | NeurIPS | 2022 |
 
 ### <a name="llm-as-extractor"></a>LLM as Extractor
+
+![LLM as Extractor (LLMaE)](./figures/LLMaE.png)
+
 | Title | Authors | Venue | Year |
 |-------|---------|-------|------|
 | [Probing LLMs on Optimization Problems: Can They Recall and Interpret Problem Features](https://link.springer.com/chapter/10.1007/978-3-031-90065-5_22) | Da Ros, Francesca; Di Gaspero, Luca; Roitero, Kevin | EvoStar | 2025 |
@@ -153,6 +166,9 @@ The sharing principle of these references here is for research. If any authors d
 | [BoChemian: Large Language Model Embeddings for Bayesian Optimization of Chemical Reactions](https://openreview.net/forum?id=A1RVn1m3J3) | Ranković, Bojana; Schwaller, Philippe | NeurIPS | 2023 |
 
 ### <a name="llm-as-designer"></a>LLM as Designer
+
+![LLM as Designer (LLMaD)](./figures/LLMaD.png)
+
 | Title | Authors | Venue | Year |
 |-------|---------|-------|------|
 | [Combining Large Language Models and Gradient-Free Optimizationfor Automatic Control Policy Synthesis](https://arxiv.org/abs/2510.00373) | Bosio, Carlo; Guarrera, Matteo; Sangiovanni-Vincentelli, Alberto; Mueller, Mark W | arXiv | 2025 |
@@ -356,5 +372,4 @@ The sharing principle of these references here is for research. If any authors d
 | Large Language Models for Supply Chain Optimization        | Arxiv, July 2023      | [code]| [paper](https://arxiv.org/abs/2307.03875)                                              |
 | How Can Large Language Models Help Humans in Design and Manufacturing | Arxiv, July 2023      | [code]| [paper](https://arxiv.org/pdf/2307.14377)                                              |
 | LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation | Arxiv, Dec. 2023       | [code]| [paper](https://arxiv.org/abs/2401.12224)                                         |
-
 
