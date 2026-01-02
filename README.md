@@ -1,5 +1,5 @@
-# LLM4AD
-## Collection on Algorithm Design with Large Language Models
+# LLM4AlgorithmDesign
+## Collection on Algorithm Design with Large Language Models. "Formerly known as LLM4Opt"
 
 🔥 Applying Large language models (**LLMs**) for algorithm design (**AD**) is an emerging research area. This is a collection of references and papers of **LLM4AD** (with focus on optimization algorithms, original name LLM4Opt). The Papers are sorted by time (first publicly available). 
 
