@@ -1,10 +1,18 @@
 # LLM4AlgorithmDesign
-## Collection on Algorithm Design with Large Language Models. "Formerly known as LLM4Opt"
+## Collection on Algorithm Design with Large Language Models.
 
-🔥 Applying Large language models (**LLMs**) for algorithm design (**AD**) is an emerging research area. This is a collection of references and papers of **LLM4AD** (with focus on optimization algorithms, original name LLM4Opt). The Papers are sorted by time (first publicly available). 
+🔥 Applying Large language models (**LLMs**) for algorithm design (**AD**) is an emerging research area. This is a collection of references and papers of **LLM4AD** (with focus on optimization algorithms). The Papers are sorted by time (first publicly available). 
 
 **For more details, please see our survey paper:**
-*   [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (2024)
+*   [A Systematic Survey on Large Language Models for Algorithm Design](https://arxiv.org/abs/2410.14716) (ACM Computing Surveys, 2025)
+```text
+@article{liu2025systematic,
+  author = {Liu, Fei and Yao, Yiming and Guo, Ping and Yang, Zhiyuan and Lin, Xi and Zhao, Zhe and Tong, Xialiang and Mao, Kun and Lu, Zhichao and Wang, Zhenkun and Yuan, Mingxuan and Zhang, Qingfu},
+  title = {A Systematic Survey on Large Language Models for Algorithm Design},
+  year = {2025},
+  journal = {ACM Computing Surveys}
+}
+```
 
 **Video Introductions and Slides:**
 *   [English Webinar (IEEE CIS)](https://cis.taskforce.ieee.org/esco/webinar-series/esco-webinar-26/)
